@@ -1,4 +1,5 @@
-![Expo device app screenshot](assets/expo-app-screenshot.jpg)
+
+![Expo device app screenshot](<assets/expo-app screenshot.jpg>)
 
 STUDENT ID: 11011787
 
